@@ -1,6 +1,8 @@
 # Wallet Rest
 ___
-
+## Стек
+Java 17, Spring Boot, Gradle, PostgreSQL, Apache Kafka, Docker, Swagger
+___
 ## Инструкция по запуску
 
 ```bash
